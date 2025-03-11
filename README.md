@@ -1,6 +1,6 @@
 # "Projeto-profile-card-component-main"
 
-## Projeto do site FrontEnd Mentor, onde o intuito é a disponibilizar projetos/exercicios práticos .
+## Projeto do site FrontEnd Mentor, onde o intuito é a disponibilizar projetos/exercicios práticos.
 
 ## Tecnologias utilizadas
 
@@ -10,5 +10,5 @@
 
 ## Desenvolvido com o uso de Mobile First em 375px para mobile e 1440px para desktop.
 
-<a href="#">Link do Projeto</a>
+<p><a href="https://viniciusferraz963.github.io/profile-card-component-main/">Clique aqui</a> Para acessar o link do projeto</p>
 

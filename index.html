@@ -6,20 +6,39 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <title>Frontend Mentor | Profile card component</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap" rel="stylesheet">
 </head>
 <body>
-  Victor Crest
-  26
-  London
+  
+  <div class="container">
+    <perfil class="info">
+      <h2>
+        Victor Crest
+        26
+      </h2>
+      <h3>London</h3>
+    </perfil>
 
-  80K
-  Followers
+    <perfil class="dados">
+      <ul>
+        <li>
+          <dados class="numbers">80K</dados>
+          <dados class="description">Followers</dados>
+        </li>
+        <li>
+          <dados class="numbers">803K</dados>
+          <dados class="description">Likes</dados>
+        </li>
+        <li>
+          <dados class="numbers">1.4K</dados>
+          <dados class="description">Photos</dados>
+        </li>
+      </ul>
+    </perfil>
+  </div>
 
-  803K
-  Likes
-
-  1.4K
-  Photos
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
     Coded by <a href="#">Your Name Here</a>.
